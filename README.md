@@ -12,5 +12,5 @@ The Tip Calculator is a straightforward Python program that calculates the amoun
 - Allows users to input the total bill, tip percentage, and number of people.
 - Calculates the bill split by performing arithmetic operations (addition, multiplication, division) to calculate the tip amount, total bill and amount per person.
 - The code uses type conversion to convert user input into appropriate numeric types (float and int).
-- Displays the calculated amount each person needs to pay in a user-friendly manner by using f-strings.
+- Displays the calculated amount each person needs to pay in a user-friendly manner by implementing f-strings.
 - Through conditional statements, provides a quick and convenient way to calculate shared expenses based on the user's choice.
